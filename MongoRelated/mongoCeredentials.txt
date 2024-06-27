@@ -1,4 +1,0 @@
-username : venkeo113
-password : Jiggle113
-
-mongodb+srv://venkeo113:Jiggle113@clusterreplit.ob6c6o5.mongodb.net/?retryWrites=true&w=majority&appName=ClusterReplit
